@@ -1,6 +1,7 @@
 [workspace]
 members = [
-    "yes"
+    "yes",
+    "echo"
 ]
 
 [profile.release]
